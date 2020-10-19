@@ -1,5 +1,5 @@
 # Machine_learning
-This is for personal learning on the book &lt;&lt;Hands on Machine Learning with sklearn and tensorflow>>
+This is for personal learning on the book *Hands on Machine Learning with sklearn and tensorflow*
 ## Chapter 1 The Machine Learning Landscape
 
 ## Chapter 2 End-to-End Machine Learning Project
