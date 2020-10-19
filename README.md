@@ -1,4 +1,4 @@
-# Matchine_learning
+# Machine_learning
 This is for personal learning on the book &lt;&lt;Hands on Machine Learning with sklearn and tensorflow>>
 ## Chapter 1 The Machine Learning Landscape
 
